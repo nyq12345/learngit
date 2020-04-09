@@ -1,0 +1,19 @@
+# ignore specific folder.
+/.idea/
+/.settings/
+/.vscode/
+/build/apidoc/
+
+
+# ignore specific file.
+/src/.coverage
+
+
+# ignore any folder.
+__pycache__/
+
+
+# ignore any file.
+*.pyc
+*.log
+*.bak
